@@ -1,7 +1,4 @@
-from types import MethodType
-
-
-#implement a class called player that represents a cricket player. the player class should have a method called play() which prints " the player is playing cricket.derive two classes ,batsman and bowler,from the player class .override the play() Method in each derived class to print"the batsman is batting"and"the bowler is bowling",respectively.write a program to create objects of both the batsman and bowler classes and call the play()method for each object.
+# 2.2 implement a class called player that represents a cricket player. the player class should have a method called play() which prints " the player is playing cricket.derive two classes ,batsman and bowler,from the player class .override the play() Method in each derived class to print"the batsman is batting"and"the bowler is bowling",respectively.write a program to create objects of both the batsman and bowler classes and call the play()method for each object.
 
 #define the base class player
 class Player:
